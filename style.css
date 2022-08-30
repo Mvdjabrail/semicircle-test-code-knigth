@@ -1,0 +1,8 @@
+.radius {
+  width: 5em;  
+  height: 10em;
+  border: 2px solid red;
+  border-radius: 0 100% 100% 0 / 0 50% 50% 0;
+  background: mistyrose;
+}
+
